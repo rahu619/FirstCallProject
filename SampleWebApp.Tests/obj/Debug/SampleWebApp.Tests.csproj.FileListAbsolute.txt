@@ -1,0 +1,2 @@
+D:\1stcall_recruitment\SampleWebApp\SampleWebApp.Tests\obj\Debug\SampleWebApp.Tests.csprojAssemblyReference.cache
+D:\1stcall_recruitment\SampleWebApp\SampleWebApp.Tests\obj\Debug\SampleWebApp.Tests.csproj.CoreCompileInputs.cache
